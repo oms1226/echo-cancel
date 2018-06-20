@@ -1,3 +1,4 @@
+- mVoipRoaming_20180621_발표최종_keun_oms1226.pptx 를 준비하면서 필요할까봐 확인했으나, 크게 의미없는 echo cancel python 코드였지만, 향후 활용가치가 있을까봐 포크했다.
 # echo-cancel
 Demo the principle of Echo Cancellation using simple audio samples.
 
